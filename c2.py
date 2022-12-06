@@ -1,5 +1,5 @@
 ##############################
-# ZxCDDoS Made by zxcr9999   #
+# TKLAS Made by Vuminhduc    #
 # COPY = NIGGER              #
 ##############################
 
