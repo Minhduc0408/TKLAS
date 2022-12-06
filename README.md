@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 ZxCDDoS: Release v1.4 - Free DDoS Panel 🚀
+# 🚀 TKLAS: Release v1.4 - Free DDoS Panel 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -27,14 +27,6 @@ https://i.ibb.co/R0NDXnc/photo-2022-05-23-03-57-37.jpg
  
 ## Screenshot
 ![lk](https://i.ibb.co/LNkqyPR/bandicam-2022-04-12-22-11-34-101.jpg)
-
-# Tree
-* [Read now pls](#README)
-* [Info](#Info)
-* [Setup](#Setup)
-* [Credits](#Credits)
-* [T.O.S](#TOS)
-* [Contact](#Contact)
 
 # README ♥️
 Thank you for using, please help me press a star button, thank you very much.<br>
@@ -94,27 +86,6 @@ apt-get install ./google-chrome-stable_current_amd64.deb
 ulimit -n 999999
 chmod 777 *
 python3 c2.py
-```
-
-# Credits
-```sh
-zxcr9999 (Reworked CnC and added some methods .-.)
-SkyWtkhIsBack (Example Panel and L7 methods <3)
-Empfaked (Layer 7 methods <3)
-HyukIsBack (Layer 7 methods <3)
-im-federal (Layer 4 and AMP methods <3)
-R00tS3C (Layer 4 and AMP methods <3)
-forkyyy (LAYER 7 METHODS <3)
-Leeon123 (SPECIAL METHODS <3)
-TheSpeedX (HTTP, SOCKS5, SOCK4 proxies <3)
-```
-
-# TOS:
-```sh
-Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
-the creator is not responsible for the damage caused by the attacks. 
-remember: you are responsible for the attacks since this tool was created for educational purposes
-```
 
 # CONTACT:
 ```sh
